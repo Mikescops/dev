@@ -189,3 +189,18 @@ p a {
 @media only screen and (max-width : 1000px) {
 
 }
+
+
+/* Project Part */
+
+.segmentcontrol{
+  padding: 1px !important;
+}
+
+.contentproject{
+  padding: 0.7em;
+}
+
+.botpush{
+  margin-bottom: 20px;
+}
