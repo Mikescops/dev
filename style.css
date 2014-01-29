@@ -204,3 +204,18 @@ p a {
 .botpush{
   margin-bottom: 20px;
 }
+
+
+.ui.progress .bar {
+-webkit-animation: finish 10s ease-in-out infinite;
+-moz-animation: finish 10s ease-in-out infinite;
+-ms-animation: finish 10s ease-in-out infinite;
+animation: finish 10s ease-in-out infinite;
+}
+
+.barprog{
+  top :0 !important;
+}
+
+.ui.progress.top.attached, .ui.progress.top.attached .bar {
+top: 0px;}
