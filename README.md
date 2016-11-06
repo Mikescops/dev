@@ -1,4 +1,4 @@
-Mikescops.github.io
+Corentin Mors - Portfolio
 ===================
 
-Dev Website
+This is the repo for my PortFolio :D
