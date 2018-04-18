@@ -73,6 +73,14 @@ a:hover{
     text-decoration: none;
 }
 
+@media all and (max-width: 540px){
+	.site-title{
+		font-size: 1.1em;
+		top: 112px;
+	}
+}
+
+
 .site-title.prev-site{
 	left: 0;
 }
