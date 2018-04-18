@@ -58,11 +58,11 @@ a:hover{
 
 .site-title{
 	position: absolute;
-	font-size: 3em;
+	font-size: 2.5em;
 	color: rgba(255,255,255,.4);
 
 	top: 0;
-	line-height: 2.3em;
+	line-height: 3.2em;
 }
 
 .site-title:hover{
@@ -74,13 +74,11 @@ a:hover{
 }
 
 .site-title.prev-site{
-	right: 50%;
-	margin-right: 120px;
+	left: 0;
 }
 
 .site-title.next-site{
-	left: 50%;
-	margin-left: 120px;
+	right: 0;
 }
 
 /** REFERENCES */
