@@ -21,6 +21,8 @@ html, body, div, applet, h1, h2, h3, h4, h5, h6, blockquote, abbr, acronym, addr
 a{
     text-decoration: none;
     color: #fff;
+
+    outline: none;
 }
 
 a:hover{
@@ -37,6 +39,7 @@ a:hover{
 /** HOME TITLE */
 
 .home-title{
+	position: relative;
     text-align: center;
     color: #fff;
     margin-bottom: 40px;
@@ -51,6 +54,33 @@ a:hover{
 .home-title h3{
 	font-size: 18px;
 	font-weight: initial;
+}
+
+.site-title{
+	position: absolute;
+	font-size: 3em;
+	color: rgba(255,255,255,.4);
+
+	top: 0;
+	line-height: 2.3em;
+}
+
+.site-title:hover{
+	color: rgba(255,255,255,.8);
+	-webkit-transition: color 0.3s ease;
+    transition: color 0.3s ease;
+
+    text-decoration: none;
+}
+
+.site-title.prev-site{
+	right: 50%;
+	margin-right: 120px;
+}
+
+.site-title.next-site{
+	left: 50%;
+	margin-left: 120px;
 }
 
 /** REFERENCES */
