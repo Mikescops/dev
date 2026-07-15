@@ -16,7 +16,7 @@
 - [terraform-provider-homeassistant](https://github.com/Mikescops/terraform-provider-homeassistant): Control Home Assistant with Terraform
 - [vue-virtual-grid](https://www.npmjs.com/package/vue-virtual-grid): Virtual scrolling grid for Vue.js
 - [gitlab-notify-extension](https://github.com/Mikescops/gitlab-notify-extension): Browser extension for GitLab notifications
-- [onMap](https://onmap.pixelswap.fr/): Instant location sharing
+- [onMap](https://gitlab.pixelswap.fr/mikescops/onMap): Instant location sharing
 
 ## Technologies
 

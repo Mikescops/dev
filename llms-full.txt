@@ -33,28 +33,26 @@ TypeScript, Node.js, Terraform, security, passkeys, confidential computing, infr
   https://github.com/Mikescops/gitlab-notify-extension
 
 - onMap — Instant location sharing (Dec 31, 2018)
-  https://onmap.pixelswap.fr/
+  https://gitlab.pixelswap.fr/mikescops/onMap
 
-- Randomuse — Experimental YouTube song looper (Sept 10, 2018)
-  https://randomuse.netlify.com/
+- Randomuse — Experimental YouTube song looper, closed (Sept 10, 2018)
 
 - Geek Mexicain — Tech news website (Jan 3, 2018)
-  https://geek-mexicain.net/
+  https://geek-mexicain.pixelswap.fr/
 
 - mySetup.co — Share your own setup (May 2, 2017)
-  https://mysetup.co/
+  https://mysetup.pixelswap.fr/
 
 - Le Printemps des Grandes Ecoles — French festival (Dec 7, 2016)
-  https://printemps-des-grandes-ecoles.fr/
+  https://pixelswap.fr/entry/creation-le-printemps-des-grandes-ecoles/
 
 - CODERPA 18 — French departmental committee, closed (Summer 2016)
-  https://www.coderpa18.com/
 
 - Bolt.cm Store — Extensions store (Aug 25, 2015)
-  https://market.bolt.cm/
+  https://boltcms.io/
 
 - Uniwav.eu — Live weather platform (Jun 2015)
-  https://uniwav.samuel.domains/
+  https://github.com/Uniwav
 
 - PixelSwap Dev — Online portfolio (Jan 28, 2014)
   https://dev.pixelswap.fr/
