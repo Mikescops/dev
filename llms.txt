@@ -20,7 +20,7 @@
 
 ## Technologies
 
-HTML/CSS, Terraform, TypeScript, C, Node.js, Vault, security, infrastructure, web development
+TypeScript, Node.js, Terraform, security, passkeys, confidential computing, infrastructure, web development
 
 ## Contact
 

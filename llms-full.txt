@@ -13,7 +13,7 @@ Development portfolio of Corentin Mors — Co-founder and CTO of Subnoto (https:
 
 ## Technologies
 
-HTML/CSS, Terraform, TypeScript, C, Node.js, Vault
+TypeScript, Node.js, Terraform, security, passkeys, confidential computing, infrastructure
 
 ## Projects
 
