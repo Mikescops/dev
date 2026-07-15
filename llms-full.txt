@@ -1,0 +1,75 @@
+# Corentin Mors – Dev Portfolio (Full)
+
+URL: https://dev.pixelswap.fr/
+Email: medias@pixelswap.fr
+LinkedIn: https://www.linkedin.com/in/corentinmors/
+Bluesky: https://bsky.app/profile/corentin.mors.dev
+GitHub: https://github.com/Mikescops
+Location: France
+
+## Summary
+
+Development portfolio of Corentin Mors — Co-founder and CTO of Subnoto (https://subnoto.com). Open-source projects and side creations spanning security, infrastructure, TypeScript, Terraform, Node.js, and web development.
+
+## Technologies
+
+HTML/CSS, Terraform, TypeScript, C, Node.js, Vault
+
+## Projects
+
+- node-native-keychain — Native Keychain Access for Node.js (Apr 3, 2024)
+  https://github.com/Mikescops/node-native-keychain
+
+- upnp-client-ts — Node.js UPnP Client and MediaRenderer in TypeScript (Jan 28, 2023)
+  https://github.com/Mikescops/upnp-client-ts
+
+- Terraform Provider Home Assistant — Control your house with Terraform (Jan 2, 2021)
+  https://github.com/Mikescops/terraform-provider-homeassistant
+
+- Vue Virtual Grid — Virtual scrolling grid for Vue.js based on CSS grids (Oct 4, 2020)
+  https://www.npmjs.com/package/vue-virtual-grid
+
+- GitLab Notify — Web browser extension for GitLab (March 20, 2020)
+  https://github.com/Mikescops/gitlab-notify-extension
+
+- onMap — Instant location sharing (Dec 31, 2018)
+  https://onmap.pixelswap.fr/
+
+- Randomuse — Experimental YouTube song looper (Sept 10, 2018)
+  https://randomuse.netlify.com/
+
+- Geek Mexicain — Tech news website (Jan 3, 2018)
+  https://geek-mexicain.net/
+
+- mySetup.co — Share your own setup (May 2, 2017)
+  https://mysetup.co/
+
+- Le Printemps des Grandes Ecoles — French festival (Dec 7, 2016)
+  https://printemps-des-grandes-ecoles.fr/
+
+- CODERPA 18 — French departmental committee, closed (Summer 2016)
+  https://www.coderpa18.com/
+
+- Bolt.cm Store — Extensions store (Aug 25, 2015)
+  https://market.bolt.cm/
+
+- Uniwav.eu — Live weather platform (Jun 2015)
+  https://uniwav.samuel.domains/
+
+- PixelSwap Dev — Online portfolio (Jan 28, 2014)
+  https://dev.pixelswap.fr/
+
+- Erupsis — Esport gaming, closed (Jan 12, 2014)
+  https://pixelswap.fr/entry/erupsiscom-une-experience-une-aventure-une-fin
+
+- GameZone by Ryu — Blog for a YouTuber, closed (Jul 10, 2013)
+
+- PixelSwap — Creative web blog (Jun 30, 2012)
+  https://pixelswap.fr/
+
+## Related Sites
+
+- Dev portfolio: https://dev.pixelswap.fr/
+- Profile: https://me.pixelswap.fr/
+- Blog: https://pixelswap.fr/
+- Subnoto: https://subnoto.com/

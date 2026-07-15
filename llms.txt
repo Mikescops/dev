@@ -1,0 +1,31 @@
+# Corentin Mors – Dev Portfolio
+
+> Development portfolio of Corentin Mors — open-source projects and tools in security, TypeScript, Terraform, Node.js, and web development. Co-founder and CTO of Subnoto.
+
+## About
+
+- [Dev portfolio](https://dev.pixelswap.fr/): Projects and open-source work
+- [Full portfolio (plain text)](https://dev.pixelswap.fr/llms-full.txt): Complete structured project list for AI systems
+- [Profile](https://me.pixelswap.fr/): Professional experience, talks, and publications
+- [Blog](https://pixelswap.fr/): Personal blog
+
+## Featured Projects
+
+- [node-native-keychain](https://github.com/Mikescops/node-native-keychain): Native Keychain Access for Node.js
+- [upnp-client-ts](https://github.com/Mikescops/upnp-client-ts): Node.js UPnP Client and MediaRenderer in TypeScript
+- [terraform-provider-homeassistant](https://github.com/Mikescops/terraform-provider-homeassistant): Control Home Assistant with Terraform
+- [vue-virtual-grid](https://www.npmjs.com/package/vue-virtual-grid): Virtual scrolling grid for Vue.js
+- [gitlab-notify-extension](https://github.com/Mikescops/gitlab-notify-extension): Browser extension for GitLab notifications
+- [onMap](https://onmap.pixelswap.fr/): Instant location sharing
+
+## Technologies
+
+HTML/CSS, Terraform, TypeScript, C, Node.js, Vault, security, infrastructure, web development
+
+## Contact
+
+- Email: medias@pixelswap.fr
+- LinkedIn: https://www.linkedin.com/in/corentinmors/
+- Bluesky: https://bsky.app/profile/corentin.mors.dev
+- GitHub: https://github.com/Mikescops
+- Location: France
